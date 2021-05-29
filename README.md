@@ -2,14 +2,9 @@
 
 Came across Siraj Raval 100 Days of ML Code challenge, so decided that I want to try 😀 
 
-Bismillah, hope all goes well and I could be much better in ML! Since I am quite tight on time and in a rush, I may combine some days altogether, also would very much try to do one notebook with a new dataset every day of the challenge. Wish me luck :)
+Bismillah, hope all goes well and I learn something new every day!
 
-Day 1 9.5.2021 | Data Preprocessing
-- datacamp & geeksforgeeks
-Important points to note in data preprocessing:
-
-1. Handling missing data 
-2. Data Reduction
-3. Standardize data (Normalization)
-4. Handling noisy data
-5. Data transformation
+Day 1 28.5.2021 | Basics, Concept, Intro
+- What is AI, ML, Analytics, Big Data?
+- get to know important packages :- SciPy, NumPy, panda
+- finish Section 1 : introduction to ML by this [edx course](https://online-learning.harvard.edu/course/data-science-machine-learning?delta=2)
