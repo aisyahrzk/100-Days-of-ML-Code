@@ -14,3 +14,10 @@ Day2 30.5.2021 | Data Preprocessing
 - kaggle data cleaning course 
 - handling missing values, scaling and normalization, encoding character, categorical encoding, parsing dates, inconsistent data entry, 
 
+Day 3 31.5.2021 | Data Visualization 📊
+- completed kaggle data visualization course
+- using seaborn mostly, need to continue on other packages
+- coding using Student Performance Dataset for visualization
+- more to do
+- complete introduction of data visualization from cognitivescience.ai course
+
