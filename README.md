@@ -9,7 +9,7 @@ Day 1 29.5.2021 | Basics, Concept, Intro
 - get to know important packages :- SciPy, NumPy, panda
 - finish Section 1 : introduction to ML by this [edx course](https://online-learning.harvard.edu/course/data-science-machine-learning?delta=2)
 
-Day2 30.5.2021 | Data Preprocessing
+Day 2 30.5.2021 | Data Preprocessing
 - [this](https://www.youtube.com/watch?v=49wBoO0bFMw) youtube video 
 - kaggle data cleaning course 
 - handling missing values, scaling and normalization, encoding character, categorical encoding, parsing dates, inconsistent data entry, 
@@ -21,3 +21,7 @@ Day 3 31.5.2021 | Data Visualization 📊
 - more to do
 - complete introduction of data visualization from cognitivescience.ai course
 
+Day 4 1.6.2021 | Linear Regression
+- theory and maths behind the algorithm
+- andrew ng famous machine learning course (linear regression)
+- implement python code for linear regression from scratch & scikit learn
