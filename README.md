@@ -25,3 +25,8 @@ Day 4 1.6.2021 | Linear Regression
 - theory and maths behind the algorithm
 - andrew ng famous machine learning course (linear regression)
 - implement python code for linear regression from scratch & scikit learn
+
+Day 5 2.6.2021 | Logistic Regression
+- theory and maths behind the algorithm
+- andrew ng logistic regresion coursera vide
+- python code from scratch
